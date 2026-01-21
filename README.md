@@ -1,4 +1,4 @@
-# Kiro-on-Windows-Linux-
+# Kiro-on-Windows-Linux
  Phase 1: Get Your Free Kiro Credits
 Step 1: Download Kiro IDE
 Visit kiro.dev and download the application for your platform.
